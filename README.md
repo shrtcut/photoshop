@@ -1,2 +1,2 @@
 # photoshop
-Adobe Photoshop Shortcuts
+Adobe Photoshop Shrtcuts
