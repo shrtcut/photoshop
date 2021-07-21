@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+  background-color: grey;
 }
 
 h1 {
@@ -8,6 +8,6 @@ h1 {
 }
 
 p {
-  font-family: verdana;
+  font-family: key;
   font-size: 20px;
 }
