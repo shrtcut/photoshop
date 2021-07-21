@@ -1,3 +1,11 @@
+*****Keyboard*********
+
+kbd.key {
+  border-radius: 3px;
+  padding: 1px 2px 0;
+  border: 1px solid black;
+}
+
 body {
   background-color: grey;
 }
@@ -5,12 +13,4 @@ body {
 h1 {
   color: white;
   text-align: center;
-}
-
-*****Keyboard*********
-
-kbd.key {
-  border-radius: 3px;
-  padding: 1px 2px 0;
-  border: 1px solid black;
 }
