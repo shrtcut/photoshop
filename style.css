@@ -7,15 +7,15 @@ h1 {
   text-align: center;
 }
 
-p {
-  font-family: key;
-  font-size: 20px;
-}
-
 *****Keyboard*********
 
 kbd.key {
   border-radius: 3px;
   padding: 1px 2px 0;
   border: 1px solid black;
+}
+
+p {
+  font-family: key;
+  font-size: 20px;
 }
